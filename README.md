@@ -16,7 +16,7 @@ scroll-animation/
 │   ├── index.css
 │   ├── main.jsx
 │   ├── scroll.css
-│   ├── scroll.js
+│   ├── scroll.jsx
 │── .gitignore
 │── index.html
 │── package.json
@@ -41,4 +41,4 @@ scroll-animation/
 4. Open **http://localhost:5173/** in your browser  
 
 ## ✨ Usage  
-Modify the **scroll.js** and **scroll.css** files to customize animations according to your project’s needs.  
+Modify the **scroll.jsx** and **scroll.css** files to customize animations according to your project’s needs.  
